@@ -1,0 +1,26 @@
+﻿.paged a
+{
+    padding: 2px 4px;
+    margin-right: 4px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    cursor: pointer;
+}
+.paged a:hover
+{
+    background: #DBF1FF;
+    color: #0042d1;
+    text-decoration: none;
+}
+.paged .current
+{
+    padding: 2px 4px;
+    margin-right: 4px;
+    font-weight: bold;
+    background: #006699;
+    color: White;
+}
+.paged
+{
+    font-family: 宋体;
+}
